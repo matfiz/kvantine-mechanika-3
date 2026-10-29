@@ -1,0 +1,167 @@
+[
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec01.pdf",
+    "public": "lt/lecture-1.pdf",
+    "sha256": "7cdaaa06767d37d5a7eeec56dd5a16c54a6228024e76e51f31e1005526646b4c"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec02.pdf",
+    "public": "lt/lecture-2.pdf",
+    "sha256": "10b49282b7a70a0bef3af9f4378dd96f3ece1fea4572414c6700de77aa7f7606"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec03.pdf",
+    "public": "lt/lecture-3.pdf",
+    "sha256": "86595418935386dc0b46efe56a9a0c79f2674911b684c842e1e45425f53dd45e"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec04.pdf",
+    "public": "lt/lecture-4.pdf",
+    "sha256": "71810b19d22b693b9fc1a86485bff1989cf093d0c192a987bc06bc0c1da52dbe"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec05.pdf",
+    "public": "lt/lecture-5.pdf",
+    "sha256": "69a519b16109a27ecd8fd86a3cad6e3c5d5161e7a97790846477495c6f23b758"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec06.pdf",
+    "public": "lt/lecture-6.pdf",
+    "sha256": "43f3d324b6a7bb0631ed630fd04b061fd37cbfc1e4128c7214bab48fc899a321"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec07.pdf",
+    "public": "lt/lecture-7.pdf",
+    "sha256": "0c49fe199b839cdb5aac14a0555783bd63420d0fc1b73c3681b98e08a862f439"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec08.pdf",
+    "public": "lt/lecture-8.pdf",
+    "sha256": "85b4db3f6571158033dff1523bf48543427e34b934cf697f3a306d0bc0e3ca02"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec09.pdf",
+    "public": "lt/lecture-9.pdf",
+    "sha256": "887debf49188319fd5e9cd144f78125f2feb685df9d0a5d8b333cc63b7496a6e"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec10.pdf",
+    "public": "lt/lecture-10.pdf",
+    "sha256": "529339f89deeaa044cbe3dc5d7a051c87a7c3c6c0a1dd893196550184529cd36"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec11.pdf",
+    "public": "lt/lecture-11.pdf",
+    "sha256": "2b8685bf666d1f18e6da83b2213d2a30ba54c363351cfd5d419b86878a68dba1"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec12.pdf",
+    "public": "lt/lecture-12.pdf",
+    "sha256": "1330126c035cb52bffef2f19a977c47c86b50371442dcf012ced4c39ceeca6f7"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec13.pdf",
+    "public": "lt/lecture-13.pdf",
+    "sha256": "17fe14833b06576b4258d4639e595d84a4ab41184126da2936f1cd1d6bbe7adb"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/lec14.pdf",
+    "public": "lt/lecture-14.pdf",
+    "sha256": "2057e4d9033f0eed1a7ddfa4326e0fb15a45e963127271eade7d037c1a23de3a"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/quantum-mechanics-iii.pdf",
+    "public": "lt/quantum-mechanics-iii.pdf",
+    "sha256": "9c8025ad888e36d7f98843885ec6a0811327b788fb3c8c91d5424033ab25db12"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/lectures/quantum-mechanics-iii-core.pdf",
+    "public": "lt/quantum-mechanics-iii-core.pdf",
+    "sha256": "03863462f6cfe84eb6cee535881eb8ac765d939747222395f2ba5cc9d49e2abe"
+  },
+  {
+    "source": "lectures/lec01.pdf",
+    "public": "en/lecture-1.pdf",
+    "sha256": "a12a9ed6838f9aabe582203986622fcb353111ba36e3763071c1393ef9ebedc8"
+  },
+  {
+    "source": "lectures/lec02.pdf",
+    "public": "en/lecture-2.pdf",
+    "sha256": "ad3434b7330b8b6479c272ab16950278c95cfc40cb797ff638763f67d7ca4bac"
+  },
+  {
+    "source": "lectures/lec03.pdf",
+    "public": "en/lecture-3.pdf",
+    "sha256": "4d7872959ff616f562f523076a6a7c8f00f44881189b350c7b07c03decb8dea7"
+  },
+  {
+    "source": "lectures/lec04.pdf",
+    "public": "en/lecture-4.pdf",
+    "sha256": "361fe0911ffe6e5256806021a343bb755157fd088709a455c00a592f3343c113"
+  },
+  {
+    "source": "lectures/lec05.pdf",
+    "public": "en/lecture-5.pdf",
+    "sha256": "c616566edb6090a311f537a3c9fd750b7a85e684554e4f7ee9397066c961ffd1"
+  },
+  {
+    "source": "lectures/lec06.pdf",
+    "public": "en/lecture-6.pdf",
+    "sha256": "fed826873fc891e73b686f0d23089549ef62362d06173a8b9cbfaaaf18079c9d"
+  },
+  {
+    "source": "lectures/lec07.pdf",
+    "public": "en/lecture-7.pdf",
+    "sha256": "829622c08ee517a6a127553fd7047814435a93363747baf13fd9f79c7c7bc67d"
+  },
+  {
+    "source": "lectures/lec08.pdf",
+    "public": "en/lecture-8.pdf",
+    "sha256": "06768d1210802a2486bdef9b2a06cb50d0ce717e977f1a62e539c041d3c36dea"
+  },
+  {
+    "source": "lectures/lec09.pdf",
+    "public": "en/lecture-9.pdf",
+    "sha256": "6fed5e93ce48ccb47d4b4d7d180265b417ba8b4b99792ddc67ed99edbe65e331"
+  },
+  {
+    "source": "lectures/lec10.pdf",
+    "public": "en/lecture-10.pdf",
+    "sha256": "fe82b4874f0c74e628779df2d04f097497f3b2f6a0697dc00115acfe4b986fce"
+  },
+  {
+    "source": "lectures/lec11.pdf",
+    "public": "en/lecture-11.pdf",
+    "sha256": "ec4f9477851bba31d8ed66b00ce53cce8ce3ad72d0934c5a96ed30bb2a955282"
+  },
+  {
+    "source": "lectures/lec12.pdf",
+    "public": "en/lecture-12.pdf",
+    "sha256": "6814967a80f4762fd2bab8c23ea135fd7825709d3205e86c37f99bd0f22b8709"
+  },
+  {
+    "source": "lectures/lec13.pdf",
+    "public": "en/lecture-13.pdf",
+    "sha256": "50013bdad306ec26d4472ddf9f1c0ed80ba00a74186b3ef799745652105cca0f"
+  },
+  {
+    "source": "lectures/lec14.pdf",
+    "public": "en/lecture-14.pdf",
+    "sha256": "fccc38227295dc8d92963108592de7ebb94020b3a4888e4af3986678f21d0e5c"
+  },
+  {
+    "source": "lectures/quantum-mechanics-iii.pdf",
+    "public": "en/quantum-mechanics-iii.pdf",
+    "sha256": "ca9a7e0074e9b0f6d1948a3a494c5442cefb17421e315d29e8ae6fb3d51a2cf4"
+  },
+  {
+    "source": "lectures/quantum-mechanics-iii-core.pdf",
+    "public": "en/quantum-mechanics-iii-core.pdf",
+    "sha256": "87238966a122a048d4ddc1ed1a0bc0834cd985e67a07629322306a47536d7be8"
+  },
+  {
+    "source": "exercises/exercises.pdf",
+    "public": "en/exercises.pdf",
+    "sha256": "5ae9c6eaf9c9d24975a32cd2b15baef660a64d6273ad2af5ffbf8b155081c934"
+  }
+]
