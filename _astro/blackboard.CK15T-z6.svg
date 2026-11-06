@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 500" width="1800" height="500" fill="#000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" font-family="Charter, 'Bitstream Charter', 'Sitka Text', Cambria, Georgia, 'DejaVu Serif', serif">
+<!-- Quantum Mechanics III: states, measurements, channels, and contexts.
+     CSS mask: black geometry supplies alpha; the existing theme supplies ink.
+     Central square is exactly L13 eq:13:square: every row/column is a separate
+     commuting context. Products are +I for all rows and +I,+I,-I for columns.
+     This is not a joint measurement of all nine observables. X,Y,Z are Pauli
+     matrices; I in the square acts on the appropriate one/two-qubit space.
+     Surrounding formulas: L1 density operators/normal states (A bounded),
+     L6 partial trace, L7 Kraus channels, L9 POVMs, L10 Kraus instruments.
+     The displayed Kraus sums may be read as finite; no general representation
+     theorem or infinite-dimensional convergence claim is asserted here. -->
+<g stroke="none" font-style="italic">
+  <text x="42" y="73" font-size="34" transform="rotate(-1 42 73)">ρ ≥ 0,    Tr ρ = 1</text>
+  <text x="54" y="137" font-size="30" transform="rotate(1 54 137)">ω(A) = Tr(ρA)</text>
+  <text x="42" y="204" font-size="30" transform="rotate(-1 42 204)">0 ≤ F ≤ <tspan font-style="normal">𝟙</tspan></text>
+  <text x="54" y="270" font-size="28" transform="rotate(1 54 270)">p<tspan baseline-shift="sub" font-size="0.7em">j</tspan> = Tr(ρF<tspan baseline-shift="sub" font-size="0.7em">j</tspan>)</text>
+  <text x="42" y="338" font-size="28" transform="rotate(-1 42 338)">Σ<tspan baseline-shift="sub" font-size="0.7em">j</tspan> F<tspan baseline-shift="sub" font-size="0.7em">j</tspan> = <tspan font-style="normal">𝟙</tspan></text>
+  <text x="54" y="409" font-size="28" transform="rotate(1 54 409)">ρ<tspan baseline-shift="sub" font-size="0.7em">1</tspan> = Tr<tspan baseline-shift="sub" font-size="0.7em">2</tspan> ρ</text>
+
+  <text x="1272" y="73" font-size="28" transform="rotate(1 1272 73)">Φ(ρ) = Σ<tspan baseline-shift="sub" font-size="0.7em">k</tspan> K<tspan baseline-shift="sub" font-size="0.7em">k</tspan> ρ K<tspan baseline-shift="sub" font-size="0.7em">k</tspan><tspan baseline-shift="super" font-size="0.62em">†</tspan></text>
+  <text x="1284" y="137" font-size="28" transform="rotate(-1 1284 137)">Σ<tspan baseline-shift="sub" font-size="0.7em">k</tspan> K<tspan baseline-shift="sub" font-size="0.7em">k</tspan><tspan baseline-shift="super" font-size="0.62em">†</tspan>K<tspan baseline-shift="sub" font-size="0.7em">k</tspan> = <tspan font-style="normal">𝟙</tspan></text>
+  <text x="1272" y="204" font-size="26" transform="rotate(1 1272 204)">ℐ<tspan baseline-shift="sub" font-size="0.7em">j</tspan>(ρ) = Σ<tspan baseline-shift="sub" font-size="0.7em">r</tspan> K<tspan baseline-shift="sub" font-size="0.7em">jr</tspan> ρ K<tspan baseline-shift="sub" font-size="0.7em">jr</tspan><tspan baseline-shift="super" font-size="0.62em">†</tspan></text>
+  <text x="1284" y="270" font-size="26" transform="rotate(-1 1284 270)">F<tspan baseline-shift="sub" font-size="0.7em">j</tspan> = Σ<tspan baseline-shift="sub" font-size="0.7em">r</tspan> K<tspan baseline-shift="sub" font-size="0.7em">jr</tspan><tspan baseline-shift="super" font-size="0.62em">†</tspan>K<tspan baseline-shift="sub" font-size="0.7em">jr</tspan></text>
+  <text x="1272" y="338" font-size="28" transform="rotate(1 1272 338)">p<tspan baseline-shift="sub" font-size="0.7em">j</tspan> = Tr ℐ<tspan baseline-shift="sub" font-size="0.7em">j</tspan>(ρ)</text>
+  <text x="1284" y="409" font-size="26" transform="rotate(-1 1284 409)">ρ<tspan baseline-shift="sub" font-size="0.7em">j</tspan> = ℐ<tspan baseline-shift="sub" font-size="0.7em">j</tspan>(ρ)/p<tspan baseline-shift="sub" font-size="0.7em">j</tspan>,    p<tspan baseline-shift="sub" font-size="0.7em">j</tspan> &gt; 0</text>
+</g>
+
+<!-- The context square replaces the Bloch sphere with a rectilinear mark.
+     Empty cell margins keep strokes away from mathematical glyphs. -->
+<g fill="none" stroke-width="1.8">
+  <path d="M650 97 H1130 V367 H650 Z M810 97 V367 M970 97 V367 M650 187 H1130 M650 277 H1130"/>
+  <path d="M1142 142 H1159 M1142 232 H1159 M1142 322 H1159 M730 379 V392 M890 379 V392 M1050 379 V392"/>
+</g>
+<g stroke="none" text-anchor="middle">
+  <text x="890" y="62" font-size="25" font-style="italic">X = σ<tspan baseline-shift="sub" font-size="0.7em">x</tspan>,   Y = σ<tspan baseline-shift="sub" font-size="0.7em">y</tspan>,   Z = σ<tspan baseline-shift="sub" font-size="0.7em">z</tspan></text>
+  <g font-size="29">
+    <text x="730" y="152"><tspan font-style="normal">𝟙</tspan> ⊗ Z</text>
+    <text x="890" y="152">Z ⊗ <tspan font-style="normal">𝟙</tspan></text>
+    <text x="1050" y="152">Z ⊗ Z</text>
+    <text x="730" y="242">X ⊗ <tspan font-style="normal">𝟙</tspan></text>
+    <text x="890" y="242"><tspan font-style="normal">𝟙</tspan> ⊗ X</text>
+    <text x="1050" y="242">X ⊗ X</text>
+    <text x="730" y="332">X ⊗ Z</text>
+    <text x="890" y="332">Z ⊗ X</text>
+    <text x="1050" y="332">Y ⊗ Y</text>
+  </g>
+  <g font-size="26">
+    <text x="1194" y="152">+<tspan font-style="normal">𝟙</tspan></text>
+    <text x="1194" y="242">+<tspan font-style="normal">𝟙</tspan></text>
+    <text x="1194" y="332">+<tspan font-style="normal">𝟙</tspan></text>
+    <text x="730" y="426">+<tspan font-style="normal">𝟙</tspan></text>
+    <text x="890" y="426">+<tspan font-style="normal">𝟙</tspan></text>
+    <text x="1050" y="426">−<tspan font-style="normal">𝟙</tspan></text>
+  </g>
+</g>
+</svg>

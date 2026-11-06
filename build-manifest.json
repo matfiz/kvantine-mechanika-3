@@ -27,6 +27,10 @@
      "lt": "I dalis — Būsenos",
      "en": "Part I — States"
     },
+    "blurb": {
+     "lt": "Paruošimas nusako matavimo rezultatų tikimybes. Aprašysime būseną šiomis tikimybėmis, atskirsime ją nuo paruošimo ir nuo projektorių pereisime prie efektų.",
+     "en": "A preparation supplies probabilities for readings. We describe a state by those probabilities, distinguish it from its preparation, and extend events from projections to effects."
+    },
     "lectures": [
      1,
      2,
@@ -39,6 +43,10 @@
      "lt": "II dalis — Simetrija ir laikas",
      "en": "Part II — Symmetry and time"
     },
+    "blurb": {
+     "lt": "Simetrija išsaugo grynųjų būsenų palyginimo tikimybes. Grupės dėsnis ir tolydumas leis aprašyti uždarosios sistemos evoliuciją. Stebinių algebra nusakys, kurias santykines fazes galima aptikti.",
+     "en": "Symmetry preserves pure-state comparison probabilities. The group law and continuity lead to closed-system evolution. The observable algebra determines which relative phases can be detected."
+    },
     "lectures": [
      4,
      5
@@ -49,6 +57,10 @@
     "title": {
      "lt": "III dalis — Sistemos dalys ir atvirosios sistemos",
      "en": "Part III — Parts and open systems"
+    },
+    "blurb": {
+     "lt": "Grynoji poros būsena gali turėti mišriąsias dalis. Neatsižvelgiant į partnerį, gaunami kanalai. Dinaminė pusgrupė dar prideda atminties neturinčios evoliucijos prielaidą.",
+     "en": "A pure pair can have mixed parts. Ignoring a partner leads to channels. A dynamical semigroup adds the further assumption of evolution without retained memory."
     },
     "lectures": [
      6,
@@ -62,6 +74,10 @@
      "lt": "IV dalis — Matavimas",
      "en": "Part IV — Observation"
     },
+    "blurb": {
+     "lt": "Aparatas nusako matavimo rezultatų tikimybes ir sistemos pokyčius. Atskirsime šią informaciją, išnagrinėsime dekoherenciją ir suformuluosime klausimą apie vieną apibrėžtą matavimo rezultatą.",
+     "en": "An apparatus specifies reading probabilities and changes to the system. We separate that information, examine decoherence, and formulate the problem of one definite outcome."
+    },
     "lectures": [
      9,
      10,
@@ -74,6 +90,10 @@
     "title": {
      "lt": "V dalis — Trys atsakymai",
      "en": "Part V — The three exits"
+    },
+    "blurb": {
+     "lt": "Papildomi kintamieji, stochastinis kolapsas ir šakojimasis keičia skirtingas matavimo problemos prielaidas. Palyginsime jų fizines prognozes ir interpretacines prielaidas.",
+     "en": "Added variables, stochastic collapse and branching revise different premises of the measurement problem. We compare their physical predictions and interpretive assumptions."
     },
     "lectures": [
      13,
