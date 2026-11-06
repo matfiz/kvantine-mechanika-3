@@ -160,9 +160,149 @@
     "sha256": "c0258d50205496fdc48de41672025b6f44f33bb14c6b2e98bd5674520f1f9c73"
   },
   {
+    "source": "quantum-mechanics-III-lt/exercises/sheet01.pdf",
+    "public": "lt/exercises-1.pdf",
+    "sha256": "33a48c6379a6032b8008864d5b6e2f4382e5059d2f6da69de78e88032cebbfcd"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet02.pdf",
+    "public": "lt/exercises-2.pdf",
+    "sha256": "21a51b2e7baf0bc34fdb868becdefb363ceb8df44ce9853e2e0121f88b7b2aa0"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet03.pdf",
+    "public": "lt/exercises-3.pdf",
+    "sha256": "5e8265198b359b93ae87383f9aa0ec7812de0e63d31ee95b46648ba2d29cb502"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet04.pdf",
+    "public": "lt/exercises-4.pdf",
+    "sha256": "273668ef6c0c9fa54af39d9f43b2ac151d5fc4f8ea3437de647ceb7ebad51f6b"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet05.pdf",
+    "public": "lt/exercises-5.pdf",
+    "sha256": "65e791e389e02250099a2634f16e8f22c149cc010e0de330c327494f32e2d3ec"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet06.pdf",
+    "public": "lt/exercises-6.pdf",
+    "sha256": "4e09df0f2d7744c5bf251215df263d60345080b9e271106cbc78848681ee0532"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet07.pdf",
+    "public": "lt/exercises-7.pdf",
+    "sha256": "8c21508c6d58b03fac193936d49a8c2339d74cd05da5d717f14065298c2102eb"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet08.pdf",
+    "public": "lt/exercises-8.pdf",
+    "sha256": "ef7b213817586dbd89e5617442ebe549c6aaf472f796369fef1ae7a53f21b6af"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet09.pdf",
+    "public": "lt/exercises-9.pdf",
+    "sha256": "f98941a8bc78caef1437263c14ededbe1f61081f670cee4ab1a26249e5b27948"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet10.pdf",
+    "public": "lt/exercises-10.pdf",
+    "sha256": "3f21d59bd9910dfb0088da1768b19d9d489c5116e933beb57379718150df4247"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet11.pdf",
+    "public": "lt/exercises-11.pdf",
+    "sha256": "d6beeeaeffbbe69f74efbc316ad1d46a885f0a2f4f5bda4ba4281160bca03ecd"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet12.pdf",
+    "public": "lt/exercises-12.pdf",
+    "sha256": "a4e2e4996125b05c338733741143b93a356de1714c250887732fe98d02208ecf"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet13.pdf",
+    "public": "lt/exercises-13.pdf",
+    "sha256": "782ab6808021f13fca27a18a2ed31d90a77b73f714e991ec7522d7bf6618baa1"
+  },
+  {
+    "source": "quantum-mechanics-III-lt/exercises/sheet14.pdf",
+    "public": "lt/exercises-14.pdf",
+    "sha256": "d16dd96d566c22a0e6c1736846fbcbb4c418ca02c4070df64f0520826dd97b54"
+  },
+  {
     "source": "quantum-mechanics-III-lt/exercises/exercises.pdf",
     "public": "lt/exercises.pdf",
     "sha256": "4c2bedc78b0d0fbe5423a95e28d960ea107966fe44f8e677a9b6ad3fe1dc5d48"
+  },
+  {
+    "source": "exercises/sheet01.pdf",
+    "public": "en/exercises-1.pdf",
+    "sha256": "0753ecd18ff53e370d89031a328d7fa7d55fb431c5da0e5e23344ba07c127ce0"
+  },
+  {
+    "source": "exercises/sheet02.pdf",
+    "public": "en/exercises-2.pdf",
+    "sha256": "bba42372c82e55d27d7799b6b5ef58dfadbdb9ec484badcd4cc1cbb97ba9b9b2"
+  },
+  {
+    "source": "exercises/sheet03.pdf",
+    "public": "en/exercises-3.pdf",
+    "sha256": "fc542fa6b95cb4967e1b86ac6aff40ba92a539555abb8c76339227374fe5fb58"
+  },
+  {
+    "source": "exercises/sheet04.pdf",
+    "public": "en/exercises-4.pdf",
+    "sha256": "3081935ac69f9c9b1e985ee287fcd55d1cdfb96a2479a43daa3b47d95b6719bd"
+  },
+  {
+    "source": "exercises/sheet05.pdf",
+    "public": "en/exercises-5.pdf",
+    "sha256": "cfa570f812c60ef0ccf0c0c608ebf07c88ce47004adfc75bf3d1cc6416848159"
+  },
+  {
+    "source": "exercises/sheet06.pdf",
+    "public": "en/exercises-6.pdf",
+    "sha256": "65be10fc785660cc6ad5d07c5f4283bb0a30a3f2236fc98f38bee06663ea6fe4"
+  },
+  {
+    "source": "exercises/sheet07.pdf",
+    "public": "en/exercises-7.pdf",
+    "sha256": "b55f8e633da85639403d868831f644e9f86b3a6f5a6a75eb3edb0da8929c8b19"
+  },
+  {
+    "source": "exercises/sheet08.pdf",
+    "public": "en/exercises-8.pdf",
+    "sha256": "b14252c6a11ddbb20eacd2b8dea6dce49e81ecd49af1279cc83520aaa0fd512d"
+  },
+  {
+    "source": "exercises/sheet09.pdf",
+    "public": "en/exercises-9.pdf",
+    "sha256": "27f7c50bbb580af4e8d2b571f6783ccd278655f012fb5bc85fb9592519377dac"
+  },
+  {
+    "source": "exercises/sheet10.pdf",
+    "public": "en/exercises-10.pdf",
+    "sha256": "2fe8b1bf763deea902ff86873635e25b527eb17ab8c11fa4b6f715e145f7ddfc"
+  },
+  {
+    "source": "exercises/sheet11.pdf",
+    "public": "en/exercises-11.pdf",
+    "sha256": "93535541053e8acf0b4002f9012524859b7ca199c5e9fad81f334d85151f9492"
+  },
+  {
+    "source": "exercises/sheet12.pdf",
+    "public": "en/exercises-12.pdf",
+    "sha256": "fcb3d06970d412c2e3f7f3e80f24f8b62a8f3cdee81bcb6a97844d4457b55dc0"
+  },
+  {
+    "source": "exercises/sheet13.pdf",
+    "public": "en/exercises-13.pdf",
+    "sha256": "237af9f26f81dcf3b84fc1455b0a3f6d1ed10be022b1aade873650ec04e234d4"
+  },
+  {
+    "source": "exercises/sheet14.pdf",
+    "public": "en/exercises-14.pdf",
+    "sha256": "65e214bf9d06e1382748a2a814c487ba858c25a1d220e7d379d03d99605efea0"
   },
   {
     "source": "exercises/exercises.pdf",
